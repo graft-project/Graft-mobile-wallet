@@ -1,3 +1,5 @@
+NO privacy
+
 # graft Mobile Wallet Privacy Policy
 ### Last Modified: 10 January 2021
 ### 1. Introduction
